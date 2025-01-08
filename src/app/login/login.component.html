@@ -1,0 +1,26 @@
+<div class="login-container">
+    <img class="film" src="assets/images/movie.png" alt="Movie">
+    <div class="logo">Rotten Potatoes</div>
+    <div class="desc">
+        "Welcome to Rotten Potatoes, your go-to platform for honest and insightful movie reviews! Discover the latest blockbusters, 
+        timeless classics, and hidden gems, all rated and reviewed by movie enthusiasts like you. Whether you're looking for your next 
+        binge-worthy film or want to share your thoughts, Rotten Potatoes is the perfect place for movie lovers to connect and explore."
+    </div>
+    <div class="login-form">
+        <label for="uname" class="login-title">LOGIN</label>
+        <div class="form-group">
+            <label for="uname">Username</label>
+            <input type="text" name="uname" class="form-control" [(ngModel)]="username"/>
+        </div>
+        <div class="form-group">
+            <label for="pword">Password</label>
+            <input type="password" name="pword" class="form-control" [(ngModel)]="password"/>
+        </div>
+        <div class="btn-container">
+            <div class="error">{{errorMsg}}</div>
+            <button 
+            class="btn btn-dark"
+            (click)="login()">Login</button>
+        </div>
+    </div>
+</div>
