@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Modak&display=swap');
+.header-container{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 13, 13);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .logo{
+        font-size: 50px;
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+        font-family: "Modak", serif;
+        letter-spacing: 1px;
+        margin-left: 30px;
+        -webkit-text-stroke: 1px black; /* Borde negro */
+        cursor: pointer;
+    }
+    .logout{
+        font-size: 30px;
+        font-weight: 400;
+        font-family: "Modak", serif;
+        margin-right: 40px;
+        cursor: pointer;
+    }
+
+}
