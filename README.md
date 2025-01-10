@@ -1,59 +1,104 @@
-# FinalProject
+# 🎥 Rotten Potatoes 🍿
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+Rotten Potatoes is an **introductory project** built with **Angular** and **Bootstrap**, inspired by platforms like Rotten Tomatoes. This app allows users to:
 
-## Development server
+- 🌟 Rate and rank movies.  
+- 🎬 Explore trending and popular films.  
+- ✍️ Post and read movie reviews.  
 
-To start a local development server, run:
+The project was created as a learning exercise, leveraging tutorials and hands-on experimentation to build both functionality and design.
 
-```bash
-ng serve
-```
+---
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## ✨ Features
 
-## Code scaffolding
+1. **Interactive Movie Ratings**: Users can give ratings and view average scores.  
+2. **Trending and Popular Sections**: A clean interface showcasing trending movies and popular films in theaters.  
+3. **Detailed Movie Pages**: Click on any movie to see its details, user reviews, and leave your own feedback.  
+4. **User-Friendly UI**: Enhanced with **Bootstrap** for a polished and responsive design.  
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+---
 
-```bash
-ng generate component component-name
-```
+## 🛠️ Technologies Used
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+- **Angular**: Frontend framework for building dynamic single-page applications.  
+- **Bootstrap**: Styling and layout for an intuitive user experience.  
+- **HTML & CSS**: For additional structure and customization.  
 
-```bash
-ng generate --help
-```
+---
 
-## Building
+## 🚀 How to Run
 
-To build the project run:
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/rotten-potatoes.git
+   ```  
+2. Navigate to the project folder:  
+   ```bash
+   cd rotten-potatoes
+   ```  
+3. Install dependencies:  
+   ```bash
+   npm install
+   ```  
+4. Start the development server:  
+   ```bash
+   ng serve
+   ```  
+5. Open your browser and go to:  
+   ```bash
+   http://localhost:4200
+   ```  
 
-```bash
-ng build
-```
+---
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+## 🎯 Goals
 
-## Running unit tests
+This project aims to:  
+- Introduce beginners to Angular development.  
+- Demonstrate the use of Bootstrap for enhancing UI design.  
+- Provide a hands-on experience in building interactive web apps.  
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+---
 
-```bash
-ng test
-```
+## 📷 Screenshots
 
-## Running end-to-end tests
+### Home Page  
+![Home Page](screenshots/home.png)
 
-For end-to-end (e2e) testing, run:
+### Login Page  
+![Login Page](screenshots/login.png)  
 
-```bash
-ng e2e
-```
+### Movie Details  
+![Movie Details](screenshots/movie.png)  
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+---
 
-## Additional Resources
+## 📚 Acknowledgements
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+This project was made possible with the help of:  
+- Various **Angular tutorials** and guides.  
+- **Bootstrap documentation** for UI components.  
+
+---
+
+## 📝 Future Enhancements
+
+- Add authentication for user accounts.  
+- Enable sorting and filtering for movie lists.  
+- Implement a backend for storing reviews and ratings.  
+
+---
+
+## 🌟 Contributions
+
+This is a learning project, but feedback and suggestions are always welcome! Feel free to open an issue or submit a pull request.  
+
+---
+
+### 📌 Disclaimer
+This project was built for educational purposes only and is not affiliated with Rotten Tomatoes.  
+
+---
+
+Hope you enjoy exploring **Rotten Potatoes**! 🎬🍿
