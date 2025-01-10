@@ -3,16 +3,52 @@
     "id": 11,
     "name": "Venom",
     "cover": "https://resizing.flixster.com/w7oW9FQj1r-lvHn2aNpWEMbXqWc=/180x257/v2/https://resizing.flixster.com/m-_iSmK-QO9H2Iurcv7uu4TrxCM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwZGZhODY3LTI2YzktNGVkYy05YWJlLTVmMGNmMTY2YWZhNS5qcGc=",
-    "rating": 2.15,
+    "rating": 4.75,
     "reviews": [
+      {
+        "author": "Alice Johnson",
+        "published_on": "2023-03-05 18:45:00",
+        "review": "The movie was good, but I felt it was a bit too long. Still worth watching.",
+        "rating": 3.9
+      },
+      {
+        "author": "Bob Brown",
+        "published_on": "2023-04-20 11:30:25",
+        "review": "A fantastic movie with a lot of action and suspense. Kept me on the edge of my seat!",
+        "rating": 4.7
+      },
+      {
+        "author": "Charlie Davis",
+        "published_on": "2023-05-10 16:15:10",
+        "review": "The plot was a bit predictable, but the special effects were top-notch.",
+        "rating": 3.8
+      }
     ]
   },
   {
     "id": 12,
     "name": "The Addam's Family 2",
     "cover": "https://resizing.flixster.com/Qsv4_iz7c6JhCNvUzgN9ixD4DY8=/180x257/v2/https://resizing.flixster.com/UkjsCuTQE9TsbaUBjv1306fV-PA=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYwYTEzY2RkLTUwZjQtNGQyYS04Y2YyLTM1N2VkOWRhNGMxZS5qcGc=",
-    "rating": 1.85,
+    "rating": 3.85,
     "reviews": [
+      {
+        "author": "Diana Evans",
+        "published_on": "2023-06-25 13:50:55",
+        "review": "Loved the movie! The characters were well-developed and the story was engaging.",
+        "rating": 4.6
+      },
+      {
+        "author": "Ethan Foster",
+        "published_on": "2023-07-15 10:05:35",
+        "review": "A solid movie with great acting and direction. Definitely worth a watch.",
+        "rating": 4.3
+      },
+      {
+        "author": "Fiona Green",
+        "published_on": "2023-08-05 19:20:45",
+        "review": "The movie had some slow parts, but overall it was very enjoyable.",
+        "rating": 4.0
+      }
     ]
   },
   {
@@ -21,6 +57,18 @@
     "cover": "https://resizing.flixster.com/RepJk2Zmhgnc0xnya0rATtYp6Fw=/180x257/v2/https://resizing.flixster.com/y1aWFiU0Xb1pWJdnPD8YQ9nUKFM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzY0YjU4NmQ3LWIxNzktNDMxOS05Yjg3LWU2YmJiNWIyMDBiZS5qcGc=",
     "rating": 3.25,
     "reviews": [
+      {
+        "author": "George Harris",
+        "published_on": "2023-09-10 12:35:20",
+        "review": "An excellent movie with a powerful message. Highly recommend it!",
+        "rating": 4.9
+      },
+      {
+        "author": "Hannah White",
+        "published_on": "2023-10-01 15:45:30",
+        "review": "The cinematography was beautiful, but the story was a bit lacking.",
+        "rating": 3.7
+      }
     ]
   },
   {
@@ -29,6 +77,18 @@
     "cover": "https://resizing.flixster.com/uNc3CW-Fa09jrPAkm8XZpNjhzYo=/180x257/v2/https://resizing.flixster.com/xwxxJB2xH5NdYHpX_VBGwBtT54I=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2U1NzRmM2YxLWJmZjctNDYzNS05Mjk4LTVmOGM4NGJiMTQwMS5qcGc=",
     "rating": 4.15,
     "reviews": [
+      {
+        "author": "George Harris",
+        "published_on": "2023-09-10 12:35:20",
+        "review": "An excellent movie with a powerful message. Highly recommend it!",
+        "rating": 4.9
+      },
+      {
+        "author": "Hannah White",
+        "published_on": "2023-10-01 15:45:30",
+        "review": "The cinematography was beautiful, but the story was a bit lacking.",
+        "rating": 3.7
+      }
     ]
   },
   {
